@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+  <Field DisplayName='Nombre' Type='User' />
+  <Field DisplayName='FechaIngreso' Type='DateTime' />
+  <Field DisplayName='FechaNacimiento' Type='DateTime' />
+</List>
